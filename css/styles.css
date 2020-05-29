@@ -1,0 +1,11 @@
+body {
+  padding: 75px;
+}
+
+ul {
+  line-height: 25px;
+}
+
+.column {
+  float: left;
+}
