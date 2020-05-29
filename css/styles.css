@@ -13,6 +13,7 @@ ul {
 
 .column {
   float: right;
+  border: 3px orange;
 }
 
 p {
