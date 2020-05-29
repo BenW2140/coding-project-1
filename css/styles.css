@@ -24,3 +24,7 @@ p {
 .highlight {
   color: red;
 }
+
+img {
+  margin: 25px;
+}
