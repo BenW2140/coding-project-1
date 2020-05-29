@@ -3,6 +3,8 @@ body {
   text-align: center;
   list-style: inside;
   background-color: lightgreen;
+  color: purple;
+  font-family: Tahoma, sans-serif;
 }
 
 ul {
@@ -13,3 +15,6 @@ ul {
   float: left;
 }
 
+p {
+  font-family: "Times New Roman", Times, serif;
+}
