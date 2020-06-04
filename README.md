@@ -10,9 +10,21 @@ _This webpage has all of my projects that I've worked on so far during my time a
 
 ## Setup/Installation Requirements
 
-* _Clone this repository on github.com/BenW2140/coding-project-1_
-* _Open it in VS Code_
-* _Run the command open index.html or go to BenW2140.github.io/coding-project-1_
+Open by downloading:
+1. Download this repository onto your computer
+2. Double click index.html to open it in your web browser
+
+Open via Bash/GitBash:
+1. Clone this repository onto your computer:
+(https://github.com/BenW2140/coding-project-1)
+2. Navigate into the `coding-project-1` directory in Visual Studio Code or preferred text editor
+`code .`
+3. Open index.html in Chrome or preferred browser:
+  `open index.html`
+
+Open using Git Pages:
+1. Follow this link:
+  (BenW2140.github.io/coding-project-1)
 
 ## Known Bugs
 
@@ -26,7 +38,7 @@ Ben White: <bwhite2140@outlook.com>
 
 ## Technologies Used
 
-_Made with Windows 10_
+_Made with Git, HTML, and CSS_
 
 ### License
 
