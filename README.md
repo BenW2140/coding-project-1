@@ -16,7 +16,7 @@ Open by downloading:
 
 Open via Bash/GitBash:
 1. Clone this repository onto your computer:
-(https://github.com/BenW2140/coding-project-1)
+[github.com/BenW2140/coding-project-1]
 2. Navigate into the `coding-project-1` directory in Visual Studio Code or preferred text editor
 `code .`
 3. Open index.html in Chrome or preferred browser:
@@ -24,7 +24,7 @@ Open via Bash/GitBash:
 
 Open using Git Pages:
 1. Follow this link:
-  (BenW2140.github.io/coding-project-1)
+  [BenW2140.github.io/coding-project-1]
 
 ## Known Bugs
 
