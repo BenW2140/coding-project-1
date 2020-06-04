@@ -10,13 +10,17 @@ _This webpage has all of my projects that I've worked on so far during my time a
 
 ## Setup/Installation Requirements
 
+Software Requirements:
+1. Web Browser
+2. VSCode
+
 Open by downloading:
 1. Download this repository onto your computer
 2. Double click index.html to open it in your web browser
 
 Open via Bash/GitBash:
 1. Clone this repository onto your computer:
-[github.com/BenW2140/coding-project-1]
+https://github.com/BenW2140/coding-project-1
 2. Navigate into the `coding-project-1` directory in Visual Studio Code or preferred text editor
 `code .`
 3. Open index.html in Chrome or preferred browser:
@@ -24,7 +28,7 @@ Open via Bash/GitBash:
 
 Open using Git Pages:
 1. Follow this link:
-  [BenW2140.github.io/coding-project-1]
+  https://BenW2140.github.io/coding-project-1
 
 ## Known Bugs
 
